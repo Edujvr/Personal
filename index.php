@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 
 <html lang="en">
@@ -86,8 +88,8 @@
 
 
 
-			<input type="hidden" name="messenger_user_id" value="1874474035947124" />
-			<input type="hidden" name="bot_id" value="5b908e3676ccbc75afd56f45"" />
+			<input type="hidden" name="messenger_user_id" value="" />
+			<input type="hidden" name="bot_id" value="" />
 
 
 
