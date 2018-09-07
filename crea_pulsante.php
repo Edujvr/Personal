@@ -15,7 +15,7 @@ $json = array(
 				'payload' =>
 				array(
 					'template_type' => 'button',
-					'text' => 'Toca el botón de abajo para seleccionar la fecha de reserva.',
+					'text' => 'Genial... la van a pasar excelente!!! Para cuando generamos tu reserva?  Toca el botón de abajo para seleccionar la fecha de reserva 👇.',
 					'buttons' =>
 					array(
 						0 =>
