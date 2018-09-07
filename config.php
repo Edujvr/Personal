@@ -12,7 +12,7 @@ $CHATFUEL_BROADCAST_TOKEN = 'qwYLsCSz8hk4ytd6CPKP4C0oalstMnGdpDjF8YFHPHCieKNc0Af
 $CHATFUEL_BOT_ID = '5b908e3676ccbc75afd56f45';
 
 // Il nome del blocco verso cui indirizzare l'utente dopo il click sulla data: non modificarlo.
-$CHATFUEL_RETURN_BLOCK_NAME = 'blocco_di_ritorno';
+$CHATFUEL_RETURN_BLOCK_NAME = 'fecha_seleccionada';
 
 
 ?>
