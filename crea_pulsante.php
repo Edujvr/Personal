@@ -15,14 +15,14 @@ $json = array(
 				'payload' =>
 				array(
 					'template_type' => 'button',
-					'text' => 'Scegli la tua data',
+					'text' => 'Toca el botón de abajo para seleccionar la fecha de reserva.',
 					'buttons' =>
 					array(
 						0 =>
 						array(
 							'type' => 'web_url',
 							'url' => $web_url,
-							'title' => 'Clicca qui',
+							'title' => 'Selecciona el día',
 							'messenger_extensions' => true,
 							'webview_height_ratio' => 'tall'
 						),
