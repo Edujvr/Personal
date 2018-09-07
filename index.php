@@ -4,7 +4,7 @@ error_reporting(0);
 <!doctype html>
 <html lang="it">
 	<head>
-		<title>SCEGLI UN GIORNO</title>
+		<title>SELLECCIONA UNA FECHA</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -54,7 +54,7 @@ error_reporting(0);
 			</div>
 
 			<footer class="footer">
-				<button type="submit" id="done-btn" class="btn btn-primary btn-block">CONFERMA LA DATA</button>
+				<button type="submit" id="done-btn" class="btn btn-primary btn-block">SELECCIONAR</button>
 			</footer>
 
 		</form>
