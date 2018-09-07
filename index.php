@@ -4,7 +4,7 @@ error_reporting(0);
 <!doctype html>
 <html lang="it">
 	<head>
-		<title>SELLECCIONA UNA FECHA</title>
+		<title>DÍA DE RESERVA</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
