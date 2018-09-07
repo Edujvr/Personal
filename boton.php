@@ -1,1 +1,0 @@
-{"messages":[{"attachment":{"type":"template","payload":{"template_type":"button","text":"Tap the button below to select reservation date.","buttons":[{"type":"web_url","url":"https:\/\/boton-reserva-php.herokuapp.com\/index.php?messenger_user_id=&bot_id=","title":"Select Date","webview_share_button":"hide","messenger_extensions":true,"webview_height_ratio":"tall"}]}}}]}
