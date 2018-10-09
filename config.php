@@ -3,7 +3,7 @@ error_reporting(0);
 
 
 // Inserisci il dominio del tuo sito, dove avrai creato la cartella che contiene il file index.php sul tuo server.
-$MAIN_URL = 'https://botonfecha.000webhostapp.com/index.php';
+$MAIN_URL = 'https://boton-reserva-php.herokuapp.com/index.php';
 
 // Inserisci il tuo Broadcasting API Token: lo trovi nel tab CONFIGURE del tuo bot in ChatFuel.
 $CHATFUEL_BROADCAST_TOKEN = 'qwYLsCSz8hk4ytd6CPKP4C0oalstMnGdpDjF8YFHPHCieKNc0AfrnjVs91fGuH74';
